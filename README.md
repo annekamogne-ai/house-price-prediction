@@ -1,13 +1,13 @@
-📘 House Price Prediction – Data Analysis & Regression Models
+ House Price Prediction – Data Analysis & Regression Models
 
 This project is part of the Data Analysis with Python course offered by IBM on Coursera.
 The goal is to analyze a housing dataset, perform exploratory data analysis (EDA), build multiple regression models, and compare their performance on the test set.
 
-🔍 Project Overview
+ Project Overview
 
 The project focuses on understanding the key factors that influence house prices and evaluating different machine learning models to predict the final price.
 
-🛠️ Steps and Methodology
+ Steps and Methodology
 1. Importing Required Libraries
 
 The analysis was performed using:
